@@ -24,7 +24,7 @@ This project implements a comprehensive deep learning system to classify Alzheim
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Model | Test Accuracy | Test Loss | Parameters |
 |-------|---------------|-----------|------------|
@@ -216,3 +216,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Clinical Analysis
 - Documentation Complete
 - Repository Published
+
